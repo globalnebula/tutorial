@@ -19,3 +19,5 @@ a = np.array()
 ```
 ## End of the code
 - Anonymousssssss
+- Reyhan
+- Flurry
